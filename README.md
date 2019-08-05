@@ -1,4 +1,4 @@
-# MarqueeLabel
+# MarqueeLabel(此项目已经不维护，新的请看[GCMarqueeView](https://github.com/loveway/GCMarqueeView))
 
 swift实现的一种跑马灯效果,如图：
 
